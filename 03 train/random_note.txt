@@ -1,0 +1,6 @@
+# Please read
+
+
+You can run trainer.ipynb to train the model.
+
+But also can use colab to train the model for performance reason: https://colab.research.google.com/drive/1GIa_iAKcPYZLgLkZsTNjqAPblJIjLGN7#scrollTo=0zm8guN3MTUq

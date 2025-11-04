@@ -1,8 +1,11 @@
+**/record_*/
+**/dataset_*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
-**/record_*/
+
 
 # C extensions
 *.so
